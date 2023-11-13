@@ -8,9 +8,9 @@ YvY contains several modules that allow the farmer to control the production pro
 
 Learn more about the project;
 
-- [Background](https://github.com/fundacionplan21/open-yvy/blob/main/BACKGROUND.md)
-- [Solution](https://github.com/fundacionplan21/open-yvy#solution-details)
-- [Get Started](https://github.com/fundacionplan21/open-yvy#get-started)
-- [Contribution](https://github.com/fundacionplan21/open-yvy#contributing)
-- [Road Map](https://github.com/fundacionplan21/open-yvy#project-roadmap)
+- [Background](https://github.com/open-yvy/open-yvy/blob/main/BACKGROUND.md)
+- [Solution](https://github.com/open-yvy/open-yvy#solution-details)
+- [Get Started](https://github.com/open-yvy/open-yvy#get-started)
+- [Contribution](https://github.com/open-yvy/open-yvy#contributing)
+- [Road Map](https://github.com/open-yvy/open-yvy#project-roadmap)
 
