@@ -1,4 +1,4 @@
-# Open YvY
+# [Open YvY](https://github.com/Open-YvY/Open-YvY)
 
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![YvY App](https://img.shields.io/badge/Click-YvY%20%20App-blue)](https://yvyapp.plan21.org)
 
