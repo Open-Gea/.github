@@ -1,4 +1,4 @@
-# [Gea Project](https://github.com/Gea-Project/Gea-Project)
+# [Open Gea](https://github.com/open-gea/open-gea)
 
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) <!-- [![Slack]()](https://callforcode.org/slack) --> <!-- [![YvY App](https://img.shields.io/badge/Click-YvY%20%20App-blue)](https://yvyapp.plan21.org) -->
 
@@ -10,9 +10,9 @@ Gea contains several modules that allow the farmer to control the production pro
 
 Learn more about the project;
 
-- [Background](https://github.com/gea-project/gea-project/blob/main/BACKGROUND.md)
-- [Solution](https://github.com/gea-project/gea-project#solution-details)
-- [Get Started](https://github.com/gea-project/gea-project#get-started)
-- [Contribution](https://github.com/gea-project/gea-project#contributing)
-- [Road Map](https://github.com/gea-project/gea-project#project-roadmap)
+- [Background](https://github.com/open-gea/open-gea/blob/main/BACKGROUND.md)
+- [Solution](https://github.com/open-gea/open-gea#solution-details)
+- [Get Started](https://github.com/open-gea/open-gea#get-started)
+- [Contribution](https://github.com/open-gea/open-gea#contributing)
+- [Road Map](https://github.com/open-gea/open-gea#project-roadmap)
 
